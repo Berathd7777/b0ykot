@@ -1,22 +1,7 @@
 [
-  { "marka": "Coca-Cola", "durum": "boykot" },
-  { "marka": "Pepsi", "durum": "boykot" },
-  { "marka": "Nestle", "durum": "boykot" },
-  { "marka": "Ülker", "durum": "boykot" },
-  { "marka": "Eti", "durum": "boykot değil" },
-  { "marka": "Starbucks", "durum": "boykot" },
-  { "marka": "Lipton", "durum": "boykot" },
-  { "marka": "Algida", "durum": "boykot" },
-  { "marka": "Burger King", "durum": "boykot" },
-  { "marka": "Domino's Pizza", "durum": "boykot" },
-  { "marka": "Haribo", "durum": "boykot" },
-  { "marka": "Kinder", "durum": "boykot" },
-  { "marka": "Milka", "durum": "boykot" },
-  { "marka": "Dove", "durum": "boykot" },
-  { "marka": "Clear", "durum": "boykot" },
-  { "marka": "Orkid", "durum": "boykot" },
-  { "marka": "Ariel", "durum": "boykot" },
-  { "marka": "Fairy", "durum": "boykot" },
-  { "marka": "Domestos", "durum": "boykot" },
-  { "marka": "Finish", "durum": "boykot" }
+  {
+    "marka": "Papara",
+    "durum": "boykot",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Papara_logo.svg"
+  }
 ]
