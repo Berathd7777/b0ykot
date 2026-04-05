@@ -12,3 +12,4 @@ Sprite
 Bol Bol
 Algida
 Magnum
+Oreo
