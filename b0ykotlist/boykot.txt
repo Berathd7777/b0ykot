@@ -6,4 +6,4 @@ Dostino
 Fanta
 Yedigün
 Sprite
-Bol Bol , BolBol
+Bol Bol
