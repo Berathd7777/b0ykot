@@ -101,3 +101,6 @@ Missbon
 Piyale
 Barilla
 Filiz
+Signal
+Oral
+Omo
