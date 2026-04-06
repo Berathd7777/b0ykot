@@ -3,8 +3,6 @@ Pepsi
 Coca-Cola
 Coca Cola
 Dost
-Dost Süt
-Dost Yoğurt
 Dostino
 Fanta
 Yedigün
@@ -47,4 +45,4 @@ UNO
 Fusetea
 Calve
 Knorr
-Mutlu Makarna
+Mutlu
