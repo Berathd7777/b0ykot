@@ -132,3 +132,4 @@ Rocher
 Hobby
 Karmen
 CocoStar
+Migros
