@@ -1,13 +1,13 @@
 Ülker
 Pepsi
 Coca-Cola
-Coca Cola
 Dost
 Dostino
 Fanta
 Yedigün
 Sprite
-Bol Bol
+Bol-Bol
+BolBol
 Algida
 Magnum
 Oreo
@@ -36,7 +36,7 @@ Kinder
 First
 Heinz
 Fruko
-Burger King
+Burger-King
 Dardanel
 Vivident
 KFC
@@ -63,7 +63,7 @@ Polo
 Albeni
 Activia
 Mis
-Big Babol
+Big-Babol
 Carte Dor
 Alpella
 Yupo
@@ -96,7 +96,7 @@ Powerade
 M&M’S
 Sevenup
 Kitkat
-Kit Kat
+Kit-Kat
 Rocco
 Crunch
 Missbon
@@ -114,7 +114,7 @@ Tropicana
 Damla
 Sting
 Pepper
-Mountain Dew
+Mountain-Dew
 Schweppes
 Monster
 Erikli
@@ -136,7 +136,7 @@ Karmen
 CocoStar
 Migros
 Capri-Sun
-Capri
+CapriSun
 Disney
 Carrefour
 Starbucks
