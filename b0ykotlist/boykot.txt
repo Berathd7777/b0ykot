@@ -14,6 +14,7 @@ Oreo
 Airbnb
 Amazon
 Nestle
+Nestlé
 İçim
 Kent
 Komili
@@ -138,3 +139,4 @@ Capri-Sun
 Capri
 Disney
 Carrefour
+Starbucks
